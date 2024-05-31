@@ -1,6 +1,6 @@
 Short-answer questions:
 
-1.Problem Addressed by Generics:
+*** 1.Problem Addressed by Generics:***
 
 Generics solve the issue of code duplication and type safety. They allow you to create a class or method that operates on any data type, preventing the need to write multiple versions for different types. Generics also enforce type safety by performing compile-time checks, reducing runtime errors due to type mismatches.
 
